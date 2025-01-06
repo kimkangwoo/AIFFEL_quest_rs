@@ -1,4 +1,6 @@
 # AIFFEL_quest_rs
-![](./img/제목 없는 디자인.png)
+
+![image](./img/image.png)
+
 아이펠 리서치 과정에서 진행하는 프로젝트를 기록합니다.
 
